@@ -27,7 +27,7 @@ public class Main {
         System.out.println(rectangleMethod(f5, 0, 1));
     
     }
-               
+                
        
     
     private static final int PARTS = 100;
